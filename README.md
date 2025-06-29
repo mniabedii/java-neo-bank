@@ -12,6 +12,9 @@ This is my first project using OOP concepts in Java. The program features intera
 - Support staff functions for verification and request handling  
 - Interactive and user-friendly console interface
 
+## Related Projects
+- For an improved version of this Neo Bank with a JavaFX graphical user interface (GUI), check out the [JavaNeoBank-GUI](https://github.com/mniabedii/java-neo-bank-gui) repository.
+
 ##  Full Project Specification
 For the full project instructions (in Persian), please refer to the link in the _Website_ section of this repository's About panel (top-right).
 ##
